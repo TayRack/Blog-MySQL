@@ -1,0 +1,1 @@
+A blog where all users are able to create, read, update, and delete blog posts. 
